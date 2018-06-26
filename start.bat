@@ -1,3 +1,3 @@
-nodemon bot.js
+nodemon EasyRP.exe
 pause
 
