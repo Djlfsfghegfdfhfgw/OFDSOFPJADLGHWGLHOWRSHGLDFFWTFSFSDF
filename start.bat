@@ -1,3 +1,0 @@
-nodemon EasyRP.exe
-pause
-
